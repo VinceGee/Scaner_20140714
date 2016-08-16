@@ -1,0 +1,121 @@
+[
+    {
+        "outputFile": "C:\\Users\\VinceGee\\AndroidStudioProjects\\ScanerVanch\\app\\build\\intermediates\\res\\merged\\debug\\values-zh-rCN\\values-zh-rCN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "C:\\Users\\VinceGee\\AndroidStudioProjects\\ScanerVanch\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 52,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 41,
+                    "endOffset": 145
+                },
+                "from": {
+                    "file": "C:\\Users\\VinceGee\\AndroidStudioProjects\\ScanerVanch\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 63,
+                        "endColumn": 41,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 150,
+                    "endColumn": 38,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "C:\\Users\\VinceGee\\AndroidStudioProjects\\ScanerVanch\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 242,
+                        "endColumn": 35,
+                        "endOffset": 276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 36,
+                    "endOffset": 221
+                },
+                "from": {
+                    "file": "C:\\Users\\VinceGee\\AndroidStudioProjects\\ScanerVanch\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 278,
+                        "endColumn": 33,
+                        "endOffset": 310
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 226,
+                    "endColumn": 52,
+                    "endOffset": 274
+                },
+                "from": {
+                    "file": "C:\\Users\\VinceGee\\AndroidStudioProjects\\ScanerVanch\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 52,
+                        "endOffset": 206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 279,
+                    "endColumn": 33,
+                    "endOffset": 308
+                },
+                "from": {
+                    "file": "C:\\Users\\VinceGee\\AndroidStudioProjects\\ScanerVanch\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 211,
+                        "endColumn": 33,
+                        "endOffset": 240
+                    }
+                }
+            }
+        ]
+    }
+]

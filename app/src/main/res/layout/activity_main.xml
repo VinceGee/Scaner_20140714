@@ -1,0 +1,74 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+	<LinearLayout 
+	     android:id="@+id/receive_txt"
+     	 android:layout_width="match_parent"
+     	 android:layout_height="wrap_content"
+     	 android:orientation="horizontal"
+     	 android:layout_marginLeft="10dp"
+     	 android:layout_marginTop="10dp"
+	    >
+	  <TextView
+     	 android:layout_width="0dp"
+     	 android:layout_height="wrap_content"
+     	 android:layout_weight="1"
+    	 android:text="@string/id"
+    	 android:textSize="18sp" />
+	  	  <TextView
+     	 android:layout_width="0dp"
+     	 android:layout_height="wrap_content"
+     	 android:layout_weight="1"
+    	 android:text="@string/barcode"
+    	 android:textSize="18sp" />
+	  	  	  <TextView
+     	 android:layout_width="0dp"
+     	 android:layout_height="wrap_content"
+     	 android:layout_weight="1"
+    	 android:text="@string/count"
+    	 android:textSize="18sp" />
+	</LinearLayout>
+     
+     <ListView 
+         android:id="@+id/data_list"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:layout_below="@+id/receive_txt"
+         android:divider="#0a0f0b"
+         android:dividerHeight="1dp"
+         android:layout_above="@+id/per_100ms"
+         ></ListView>
+    
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true" >
+
+        <Button
+            android:id="@+id/scan_btn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:text="START SCAN" />
+
+        <Button
+            android:id="@+id/exit_btn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="EXIT" />
+    </LinearLayout>
+
+    <CheckBox
+        android:id="@+id/per_100ms"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/linearLayout1"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="36dp"
+        android:text="To scan per 100 ms" />
+
+</RelativeLayout>
